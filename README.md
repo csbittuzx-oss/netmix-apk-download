@@ -18,14 +18,14 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-latest-arm64.apk">
-  <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20ARM64%20APK%20(38MB)-22232A?style=for-the-badge&logo=android&logoColor=white" height="48" alt="Download ARM64 APK" />
+  <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20ARM64%20APK%20(36MB)-22232A?style=for-the-badge&logo=android&logoColor=white" height="48" alt="Download ARM64 APK" />
 </a>
 
 <br/><br/>
 
 <p>
   <em>🌐 <strong>Universal APK</strong>: 100% Guaranteed Compatible with All Android Devices (Phones, Tablets, Android TV, Fire TV, Emulators) &bull; Instant Fast-Install (~4s)</em><br/>
-  <em>⚡ <strong>ARM64 APK</strong>: Lightweight 38 MB build for modern 64-bit phones & tablets</em>
+  <em>⚡ <strong>ARM64 APK</strong>: Lightweight 35.8 MB build for modern 64-bit phones & tablets</em>
 </p>
 
 </div>
@@ -38,8 +38,8 @@ Choose the APK build specifically optimized for your device architecture:
 
 | Download Link | Architecture | File Size | Recommended Devices |
 | :--- | :---: | :---: | :--- |
-| [**⬇️ Download Universal APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-latest-universal.apk) *(Latest)* | `Universal` (`arm64` + `armv7` + `x86_64`) | **~97.9 MB** | ⭐ **100% Compatible with All Android Devices** (Phones, Tablets, Android TV, Fire TV, Emulators). Zero setup needed. |
-| [**⬇️ Download ARM64-v8a APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-arm64-v8a.apk) | `arm64-v8a` (64-bit) | **~38.5 MB** | **All Modern Phones & Tablets** (Samsung, Pixel, OnePlus, Xiaomi, Realme, Nothing) |
+| [**⬇️ Download Universal APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-latest-universal.apk) *(Latest)* | `Universal` (`arm64` + `armv7` + `x86_64`) | **~98.2 MB** | ⭐ **100% Compatible with All Android Devices** (Phones, Tablets, Android TV, Fire TV, Emulators). Zero setup needed. |
+| [**⬇️ Download ARM64-v8a APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-arm64-v8a.apk) | `arm64-v8a` (64-bit) | **~35.8 MB** | **All Modern Phones & Tablets** (Samsung, Pixel, OnePlus, Xiaomi, Realme, Nothing) |
 | [**⬇️ Download ARMeabi-v7a APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-armeabi-v7a.apk) | `armeabi-v7a` (32-bit) | **~35.4 MB** | **Older Android Phones**, Legacy Tablets, 32-bit TV Sticks |
 | [**⬇️ Download x86_64 APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-x86_64.apk) | `x86_64` (64-bit) | **~43.5 MB** | **PC Emulators** (BlueStacks, LDPlayer, Nox), ChromeOS Chromebooks |
 
@@ -59,7 +59,7 @@ Not sure which file to download? Refer to the device compatibility breakdown bel
 
 ---
 
-### 2. `ARM64-v8a` — **Modern Smartphones & Tablets (Compact 38 MB)**
+### 2. `ARM64-v8a` — **Modern Smartphones & Tablets (Compact 35.8 MB)**
 - **Architecture**: 64-bit ARM (`aarch64`)
 - **Compatibility**: Supports almost all Android smartphones and tablets manufactured from 2017 to today.
 - **Popular Compatible Devices**:
@@ -122,9 +122,9 @@ You can verify the cryptographic hash of each downloaded file to ensure it has n
 
 | Filename | SHA-256 Checksum | Architecture |
 | :--- | :--- | :---: |
-| `Netmix-latest-universal.apk` | `B1C634D634C104851F7694D77232ABCDC71CFA647942CCB31652ED51B787BEAF` | **Universal (All Devices)** |
-| `Netmix-v1.0.0-arm64-v8a.apk` | `7F7F78A25FBE315CF0A866560A021E2F4C37E0DFD4E4301AA03420E4B7EF44AF` | `arm64-v8a` |
-| `Netmix-latest-arm64.apk` | `7F7F78A25FBE315CF0A866560A021E2F4C37E0DFD4E4301AA03420E4B7EF44AF` | `arm64-v8a` |
+| `Netmix-latest-universal.apk` | `5C00DECCE8CFE2F4B80A8DEE5DDE047A43CC320B479FBBC75AB9BD8D6083313F` | **Universal (All Devices)** |
+| `Netmix-v1.0.0-arm64-v8a.apk` | `709E4E7C4779C28B16389A8FB5C6A7A5EA1F77EDD2A011E2AC4E17BB99FE7433` | `arm64-v8a` |
+| `Netmix-latest-arm64.apk` | `709E4E7C4779C28B16389A8FB5C6A7A5EA1F77EDD2A011E2AC4E17BB99FE7433` | `arm64-v8a` |
 | `Netmix-v1.0.0-armeabi-v7a.apk` | `FCF5EB626451584B609F589FF8713DB5FF8FA4EA69F2F2F55172C161AA906994` | `armeabi-v7a` |
 | `Netmix-v1.0.0-x86_64.apk` | `7608A999C5E825FC62D241335E279FF85D326133A2131547DED08394D80DCBF3` | `x86_64` |
 
