@@ -25,7 +25,7 @@
 
 <p>
   <em>🌐 <strong>Universal APK</strong>: 100% Guaranteed Compatible with All Android Devices (Phones, Tablets, Android TV, Fire TV, Emulators) &bull; Instant Fast-Install (~4s)</em><br/>
-  <em>⚡ <strong>ARM64 APK</strong>: Lightweight 35.8 MB build for modern 64-bit phones & tablets</em>
+  <em>⚡ <strong>ARM64 APK</strong>: Lightweight 35.9 MB build for modern 64-bit phones & tablets</em>
 </p>
 
 </div>
@@ -38,10 +38,10 @@ Choose the APK build specifically optimized for your device architecture:
 
 | Download Link | Architecture | File Size | Recommended Devices |
 | :--- | :---: | :---: | :--- |
-| [**⬇️ Download Universal APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-latest-universal.apk) *(Latest)* | `Universal` (`arm64` + `armv7` + `x86_64`) | **~98.2 MB** | ⭐ **100% Compatible with All Android Devices** (Phones, Tablets, Android TV, Fire TV, Emulators). Zero setup needed. |
-| [**⬇️ Download ARM64-v8a APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-arm64-v8a.apk) | `arm64-v8a` (64-bit) | **~35.8 MB** | **All Modern Phones & Tablets** (Samsung, Pixel, OnePlus, Xiaomi, Realme, Nothing) |
-| [**⬇️ Download ARMeabi-v7a APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-armeabi-v7a.apk) | `armeabi-v7a` (32-bit) | **~35.4 MB** | **Older Android Phones**, Legacy Tablets, 32-bit TV Sticks |
-| [**⬇️ Download x86_64 APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-x86_64.apk) | `x86_64` (64-bit) | **~43.5 MB** | **PC Emulators** (BlueStacks, LDPlayer, Nox), ChromeOS Chromebooks |
+| [**⬇️ Download Universal APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-latest-universal.apk) *(Latest)* | `Universal` (`arm64` + `armv7` + `x86_64`) | **~98.5 MB** | ⭐ **100% Compatible with All Android Devices** (Phones, Tablets, Android TV, Fire TV, Emulators). Zero setup needed. |
+| [**⬇️ Download ARM64-v8a APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-arm64-v8a.apk) | `arm64-v8a` (64-bit) | **~35.9 MB** | **All Modern Phones & Tablets** (Samsung, Pixel, OnePlus, Xiaomi, Realme, Nothing) |
+| [**⬇️ Download ARMeabi-v7a APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-armeabi-v7a.apk) | `armeabi-v7a` (32-bit) | **~32.7 MB** | **Older Android Phones**, Legacy Tablets, 32-bit TV Sticks |
+| [**⬇️ Download x86_64 APK**](https://github.com/csbittuzx-oss/netmix-apk-download/raw/main/Netmix-v1.0.0-x86_64.apk) | `x86_64` (64-bit) | **~40.7 MB** | **PC Emulators** (BlueStacks, LDPlayer, Nox), ChromeOS Chromebooks |
 
 ---
 
